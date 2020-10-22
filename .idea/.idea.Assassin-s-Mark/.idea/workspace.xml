@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="a5b857ec-0c54-4c5a-a2ab-e58753065398" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="38969a5b-be55-4f0d-9aa3-43a0d9b5a17c" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Movement Basics/Jumpingmovement.cs" root0="FORCE_HIGHLIGHTING" />
+<<<<<<< Updated upstream
     <setting file="file://$PROJECT_DIR$/Assets/Movement Basics/Movement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -22,6 +27,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1jF9IgFSYuXB8iKk2PPciuYbxUB" />
+=======
+  </component>
+  <component name="ProjectId" id="1jFANkUqwYynhsRhiRDQMc9kvpa" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +41,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -52,12 +65,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="a5b857ec-0c54-4c5a-a2ab-e58753065398" name="Default Changelist" comment="" />
       <created>1603388895600</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603388895600</updated>
       <workItem from="1603388905092" duration="583000" />
+=======
+      <changelist id="38969a5b-be55-4f0d-9aa3-43a0d9b5a17c" name="Default Changelist" comment="" />
+      <created>1603389427932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603389427932</updated>
+      <workItem from="1603389434155" duration="18000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -69,4 +91,13 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="WindowStateProjectService">
+    <state x="782" y="345" key="SettingsEditor" timestamp="1603389449336">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603389449336" />
+  </component>
+>>>>>>> Stashed changes
 </project>

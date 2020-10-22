@@ -19,7 +19,11 @@
       <Path>.idea</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
+<<<<<<< Updated upstream
       <Path>New folder</Path>
+=======
+      <Path>Temp</Path>
+>>>>>>> Stashed changes
       <Path>UserSettings</Path>
       <Path>obj</Path>
     </explicitExcludes>

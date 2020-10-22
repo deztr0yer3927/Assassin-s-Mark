@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+<<<<<<< Updated upstream
     <e p="C:\Users\745947\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\745947\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Assassin-s-Mark.-187952474.00" t="ExcludeRecursive" />
     <e p="C:\Users\745947\Documents\GitHub\Assassin-s-Mark" t="IncludeRecursive">
+=======
+    <e p="C:\Users\744172\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\744172\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Assassin-s-Mark.-1090979499.00" t="ExcludeRecursive" />
+    <e p="C:\Users\744172\Documents\GitHub\Assassin-s-Mark" t="IncludeRecursive">
+>>>>>>> Stashed changes
       <e p="Assassin-s-Mark.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
