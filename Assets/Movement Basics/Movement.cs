@@ -16,10 +16,16 @@ public class Movement : MonoBehaviour
     void Start()
     {
         cam = Camera.main;
+        Cursor.visible = false;
+
+        Screen.lockCursor = true;
     }
 
     void Update()
     {
+
+        if (Input.GetKey(KeyCode.E))
+            Cursor.visible = true;
 
 
 
