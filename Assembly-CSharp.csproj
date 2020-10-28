@@ -50,10 +50,17 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
      <Compile Include="Assets\Movement Basics\Movement.cs" />
      <Compile Include="Assets\Movement Basics\SprintMovement.cs" />
      <Compile Include="Assets\Movement Basics\wasdmovement.cs" />
      <Compile Include="Assets\Movement Basics\Jumpingmovement.cs" />
+=======
+     <Compile Include="Assets\Script\Movement.cs" />
+     <Compile Include="Assets\Script\wasdmovement.cs" />
+     <Compile Include="Assets\Script\Jumpingmovement.cs" />
+     <Compile Include="Assets\Script\activation.cs" />
+>>>>>>> Stashed changes
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

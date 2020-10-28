@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -23,7 +24,10 @@ public class Movement : MonoBehaviour
 <<<<<<< Updated upstream
 
         if (Input.GetKey(KeyCode.E))
+        {
             Cursor.visible = true;
+            Screen.lockCursor = false;
+        }
 
 
 
