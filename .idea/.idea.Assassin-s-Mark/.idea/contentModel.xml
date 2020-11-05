@@ -11,6 +11,7 @@
           <e p="activation.cs" t="Include" />
           <e p="Jumpingmovement.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
+          <e p="SprintMovement.cs" t="Include" />
           <e p="wasdmovement.cs" t="Include" />
         </e>
       </e>
