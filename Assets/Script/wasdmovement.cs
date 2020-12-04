@@ -53,6 +53,8 @@ public class wasdmovement : MonoBehaviour
         {
             transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(forward), 0.2f);
         }
+        
+        
 
 
     }

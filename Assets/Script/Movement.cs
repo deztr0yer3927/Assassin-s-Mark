@@ -42,6 +42,8 @@ public class Movement : MonoBehaviour
             Cursor.visible = true;
             Screen.lockCursor = false;
         }
+        
+        
 
     
 

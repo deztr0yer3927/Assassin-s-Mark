@@ -51,36 +51,38 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Movement.cs" />
+     <Compile Include="Assets\Script\AI_enemy.cs" />
+     <Compile Include="Assets\Script\WallRunning_croutch.cs" />
      <Compile Include="Assets\Script\SprintMovement.cs" />
      <Compile Include="Assets\Script\wasdmovement.cs" />
      <Compile Include="Assets\Script\Jumpingmovement.cs" />
      <Compile Include="Assets\Script\activation.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/744172/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/745947/Documents/GitHub/Assassin-s-Mark/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
